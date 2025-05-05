@@ -1,0 +1,11 @@
+school_name = "Godfrey okoye university"
+gender = "male"
+student_surname = "Eze"
+student_firstname = "val"
+student_lastname = "jack"
+student_age = "21"
+department = "computer science "
+faculty = "natural science and environmental science "
+student_admission_letter = "granted "
+student_regNumber = "12572"
+print(student_surname , student_firstname  , student_lastname ,"is  a student of"  ,school_name)
